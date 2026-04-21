@@ -1,6 +1,6 @@
 class Solution {
     /*
-    53. Maximum Subarray [Kadane's Algorithm]
+    53. Maximum Sum Subarray [Kadane's Algorithm]
     Given an integer array nums, find the contiguous subarray (containing at least one number) which has the largest sum and return its sum.
     */
     public int maxSubArray(int[] nums) {
